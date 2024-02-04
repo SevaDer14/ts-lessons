@@ -1,0 +1,14 @@
+{
+  "name": "ts-lessons",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.0.4"
+  },
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
