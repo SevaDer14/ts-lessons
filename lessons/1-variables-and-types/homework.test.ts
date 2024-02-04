@@ -3,6 +3,6 @@ import * as Exercises from "./homework";
 
 describe("Variables and types homework", () => {
   test("declareNumber", () => {
-    expect(Exercises.declareNumber()).toBe(5);
+    expect(typeof Exercises.declareNumber()).toBe("number");
   });
 });

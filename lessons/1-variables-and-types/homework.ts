@@ -1,5 +1,7 @@
 export function declareNumber() {
-    return 5
+    const myNumber = 6
+    
+    return myNumber
 }
 
 // Basic Variable Declaration:
