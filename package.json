@@ -6,7 +6,8 @@
     "@types/bun": "^1.0.4"
   },
   "scripts": {
-    "start": "bun run index.ts"
+    "lesson": "bun run index.ts",
+    "test": "bun test"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

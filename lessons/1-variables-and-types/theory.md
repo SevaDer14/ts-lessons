@@ -1,3 +1,5 @@
+- Presentation https://docs.google.com/presentation/d/1fBjhEI8l80SP_WTVMG7ktbAZhaDS_T8wRT1NGiHA7AQ/edit#slide=id.p
+
 # Basic TypeScript
 
 JavaScript is a high-level, interpreted programming language primarily used for building dynamic web content. It was developed by Brendan Eich in 1995 at Netscape. JavaScript gained popularity for its ability to bring interactivity to web pages or for the content of web pages (HTML and CSS) to change programmatically depending on user input. In 1997, it was standardized as ECMAScript, with subsequent versions evolving to include new features and improvements. Today, JavaScript is a key language for web development, used both on the client side (browser) and server side (Node.js).
