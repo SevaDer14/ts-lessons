@@ -1,4 +1,4 @@
-import { Lessons } from "./lessons";
+import * as Lessons from "./lessons";
 
 
 Lessons.variablesAndTypes()
